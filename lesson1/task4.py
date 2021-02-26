@@ -17,7 +17,7 @@ while number <= 100:
     elif number % 10 == 2 or number % 10 == 3 or number % 10 == 4:
         print(f"{number} процента")
     elif number % 10 == 1:
-        print(f"{number} процента")
+        print(f"{number} процент")
     number += 1
 
 
